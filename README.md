@@ -23,9 +23,9 @@ A cross-platform virtual yearbook and scrapbook application developed using Flas
 ---
 
 This repo contains the source code for GradGoggles API, WebApp and Android app. The individual repositories for API, WebApp, and Android app are added as submodules in this repo. Here are the individual links for the same -     
-* [GradGoggles API](https://github.com/rajrajhans/gradgoggles-api)
-* [GradGoggles WebApp](https://github.com/rajrajhans/gradgoggles-api)
-* [GradGoggles Android App]()
+* [GradGoggles API Repo](https://github.com/rajrajhans/gradgoggles-api)
+* [GradGoggles WebApp Repo](https://github.com/rajrajhans/gradgoggles-api)
+* [GradGoggles Android App Repo](https://github.com/khalatevarun/gradgoggles-android)
 
 ### WebApp Screenshots
 
