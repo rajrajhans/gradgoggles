@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  <a href="https://gradgoggles.com">GradGoggles</a> Deployment Build
+  <a href="https://gradgoggles.com">GradGoggles</a>
 </h1>
 A cross-platform virtual yearbook and scrapbook application developed using Flask (API), ReactJS and Android.
 
@@ -22,7 +22,10 @@ A cross-platform virtual yearbook and scrapbook application developed using Flas
 
 ---
 
-This repo contains build files for GradGoggles Web UI. 
+This repo contains the source code for GradGoggles API, WebApp and Android app. The individual repositories for API, WebApp, and Android app are added as submodules in this repo. Here are the individual links for the same -     
+* [GradGoggles API](https://github.com/rajrajhans/gradgoggles-api)
+* [GradGoggles WebApp](https://github.com/rajrajhans/gradgoggles-api)
+* [GradGoggles Android App]()
 
 ### WebApp Screenshots
 
@@ -40,4 +43,4 @@ Following is a sneak peek of how the interface looks. To use the app live, head 
 | ------------------------------------ | ------------------------------------ | ------------------------------------ | ------------------------------------ | 
 | ![](https://assets.rajrajhans.com/gg4_1.png) | ![](https://assets.rajrajhans.com/gg5_1.png) | ![](https://assets.rajrajhans.com/gg6_1.png) | ![](https://assets.rajrajhans.com/gg7_1.png) |
 
-### To know more about GradGoggles, [read this blog post on rajrajhans.com](https://rajrajhans.com/2020/08/casestudy-gradgoggles/).
+#### To know more about GradGoggles, [read this blog post on rajrajhans.com](https://rajrajhans.com/2020/08/casestudy-gradgoggles/).
