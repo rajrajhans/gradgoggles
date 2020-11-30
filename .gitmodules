@@ -4,3 +4,6 @@
 [submodule "gradgoggles-web"]
 	path = gradgoggles-web
 	url = https://github.com/rajrajhans/gradgoggles-web
+[submodule "gradgoggles-android"]
+	path = gradgoggles-android
+	url = https://github.com/khalatevarun/gradgoggles-android.git
